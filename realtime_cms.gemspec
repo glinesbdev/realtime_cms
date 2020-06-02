@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.email       = ['glinesbdev@gmail.com']
   spec.homepage    = 'https://github.com/glinesbdev/rails_playground'
   spec.summary     = 'A CMS with real time rendering.'
-  spec.description = 'Render a CMS in real time.'
+  spec.description = 'Put together a site with a CMS in real time.'
   spec.license     = 'MIT'
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
